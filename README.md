@@ -21,6 +21,6 @@
     <img align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36em" width="36em">
     <img align="center" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36em" width="36em">
     <img align="center" alt="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="36em" width="36em">
-    <img align="center" alt="django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" height="48em" width="48em">
+    <img align="center" alt="django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="48em" width="48em">
     <img align="center" alt="rails" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="36em" width="36em">
 </div>
